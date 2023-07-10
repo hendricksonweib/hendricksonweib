@@ -1,4 +1,4 @@
-### Hi! my name is Weib!👋
+### Hi! My name is Weib!👋
 
 - 🔭 Today I work with front-end & Ux/UI design.
 - 🌱 Studying JavaScript.
