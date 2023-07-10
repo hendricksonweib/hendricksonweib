@@ -24,5 +24,5 @@
    <a href="https://www.instagram.com/weibdsgn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![imagem_2023-07-09_162230894](https://github.com/hendricksonweib/hendricksonweib/assets/137108361/6b69a88d-1f9e-4b3b-848d-c031ad12fb16)
+
 
