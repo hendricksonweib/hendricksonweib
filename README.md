@@ -26,5 +26,6 @@
 
   ##
   
-![gif](https://giphy.com/embed/u3fEnaMRVNXZj8vRPG)
+![GIF Animado]([https://exemplo.com/caminho/para/animacao.gif](https://giphy.com/gifs/pixel-art-zelda-legend-of-u3fEnaMRVNXZj8vRPG)https://giphy.com/gifs/pixel-art-zelda-legend-of-u3fEnaMRVNXZj8vRPG)
+
 
