@@ -26,6 +26,6 @@
 
   ##
   
-  ![gif](https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/u3fEnaMRVNXZj8vRPG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-art-zelda-legend-of-u3fEnaMRVNXZj8vRPG">via GIPHY</a></p>
   
 
