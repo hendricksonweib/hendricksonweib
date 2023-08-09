@@ -26,6 +26,5 @@
 
   ##
   
-![GIF Animado](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/u3fEnaMRVNXZj8vRPG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-art-zelda-legend-of-u3fEnaMRVNXZj8vRPG">via GIPHY</a></p>)
-
+![GIF Animado](https://giphy.com/embed/u3fEnaMRVNXZj8vRPG)
 
