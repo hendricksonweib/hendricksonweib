@@ -25,7 +25,6 @@
 </div>
 
   ##
-  
-![gif]("https://embed.tumblr.com/embed/post/t:v5s2lv6OZwHoyH5z9sYDHA/724410802774392832/v2" data-did="cc985443117fb4091abc98f7974e83c1109972fe"  ><a href="https://www.tumblr.com/pawzn/724410802774392832/i-made-another-d-a-new-tbh-dance-gif-yippee">https://www.tumblr.com/pawzn/724410802774392832/i-made-another-d-a-new-tbh-dance-gif-yippee</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51">)
+  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:v5s2lv6OZwHoyH5z9sYDHA/724410802774392832/v2" data-did="cc985443117fb4091abc98f7974e83c1109972fe"  ><a href="https://www.tumblr.com/pawzn/724410802774392832/i-made-another-d-a-new-tbh-dance-gif-yippee">https://www.tumblr.com/pawzn/724410802774392832/i-made-another-d-a-new-tbh-dance-gif-yippee</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
   
 
