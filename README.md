@@ -2,7 +2,7 @@
 - 🔭 Today I work with front-end & Ux/UI design.
 - 🌱 Studying JavaScript.
 
- <div>
+ <div align="center">
   <a href="https://github.com/hendricksonweib">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=compact&langs_count=16&theme=dracula"/>
