@@ -12,7 +12,7 @@
    <img align="center" alt="Weib-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weib-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Weib-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Weib-MD" <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="markdown"/>
+  <img align="center" alt="Weib-MD" <img width="64" height="64" src="https://img.icons8.com/nolan/64/markdown.png" alt="markdown"/>
 </div>
 <br>
 <p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, JavaScript, Python, Git, GitHub. Atualmente estou estudando no Incode e ADA para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
