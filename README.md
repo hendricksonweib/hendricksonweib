@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+My+name+is+Hendrickson1;I'm+a+Front-end+studant!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+My+name+is+Hendrickson!;I'm+a+Front-end+developer!)](https://git.io/typing-svg)
 <div align="center">
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
