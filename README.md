@@ -15,7 +15,7 @@
   <img align="center" alt="Weib-MD" <img width="42" height="46" src="https://img.icons8.com/nolan/64/markdown.png" alt="markdown"/>
 </div>
 <br>
-<p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode e da DEV Samurai para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
+<p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, TypeScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode e da DEV Samurai para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hendricksonweib&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
