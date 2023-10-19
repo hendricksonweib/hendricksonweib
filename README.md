@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World!+My+name+is+Hendrickson!;I'm+a+Front-end+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A80CF7&center=true&vCenter=true&random=false&width=435&lines=Hello+World%F0%9F%91%8B!;My+name+is+Hendrickson+Weib.;I%C2%B4m+Front-End+Developer!)](https://git.io/typing-svg)
 
 <p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, TypeScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode e da DEV Samurai para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
 
