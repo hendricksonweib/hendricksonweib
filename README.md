@@ -2,15 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A80CF7&center=true&vCenter=true&random=false&width=435&lines=Hello+World%F0%9F%91%8B!;My+name+is+Hendrickson+Weib.;I%C2%B4m+Front-End+Developer!)](https://git.io/typing-svg)
 
-<p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, TypeScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode e da DEV Samurai para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
 
 <div align="center">
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=compact&langs_count=7&theme=midnight-purple"/>
-
+ 
+  <br>
+<p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, TypeScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode e da DEV Samurai para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
   <div style="display: inline_block"><br>
-<h1>Knowledge in: </h1>
+<h1>My skills: </h1>
   <img align="center" alt="Weib-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weib-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Weib-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
