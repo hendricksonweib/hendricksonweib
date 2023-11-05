@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=compact&langs_count=7&theme=midnight-purple"/>
  
   <br>
-<p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, TypeScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode e da DEV Samurai para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
+<p>Estudante de Desenvolvimento Front-end dedicado, criativo e apaixonado por Ui/Ux design. Habilidades em HTML, CSS, SASS, JavaScript, TypeScript, Python, Git, GitHub e Figma. Atualmente estou estudando no Incode, DEV Samurai e Santander Tech para me formar como desenvolvedor Front-End e ampliar ainda mais minha experiência e habilidades técnicas.</p>
   <div style="display: inline_block"><br>
 <h1>My skills: </h1>
   <img align="center" alt="Weib-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
