@@ -61,25 +61,3 @@ Graduado em Eletroeltrônica pelo Instituto Federal de ciência e tecnologia do 
 
 <br>
 
-<p align="center">
-  <a
-    href="https://github.com/hendricksonweib/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=hendricksonweib&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/hendricksonweib/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
