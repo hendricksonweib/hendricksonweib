@@ -63,7 +63,7 @@ Graduado em Eletroeltrônica pelo Instituto Federal de ciência e tecnologia do 
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="https://github.com/hendricksonweib/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
