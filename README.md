@@ -6,9 +6,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá!Meu nome é Hendrickson, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
+ Olá! Meu nome é Hendrickson, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
-Graduado em Eletroeltrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End na DEVSAMURAI e estou atuando como training na Oxygeni Dit. Estou sempre em busca de desafios e oportunidades para aprender e crescer. 
+Graduado em Eletroeltrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End na DEVSAMURAI e na Oxygeni Dit. Estou sempre em busca de desafios e oportunidades para aprender e crescer. 
 <h2 align="left">
  🦄 Linguagens:
 </h2>
