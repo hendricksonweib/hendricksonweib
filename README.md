@@ -8,7 +8,7 @@
 <p align="left"> 
  Olá! Meu nome é Hendrickson, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
-Graduado em Eletroeltrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End na DEVSAMURAI e na Oxygeni Dit. Estou sempre em busca de desafios e oportunidades para aprender e crescer. 
+Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End na DEVSAMURAI e na Oxygeni Dit. Estou sempre em busca de desafios e oportunidades para aprender e crescer. 
 <h2 align="left">
  🦄 Linguagens:
 </h2>
@@ -32,32 +32,20 @@ Graduado em Eletroeltrônica pelo Instituto Federal de ciência e tecnologia do 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
 <br>
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
+   <img
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
-    </td>
-    <td>
-      <img
-        align="left"
+<br>
+   <img
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
-    </td>
-    <td>
-      <br />
+<br>
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=hendricksonweib&theme=dark&hide_border=false"
         alt="Github stats"
       />
-    </td>
-  </tr>
-</table>
-
-<br>
-
