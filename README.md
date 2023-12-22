@@ -8,7 +8,7 @@
 <p align="left"> 
  Olá! Meu nome é Hendrickson, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
-Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End na DEVSAMURAI e na Oxygeni Dit. Estou sempre em busca de desafios e oportunidades para aprender e crescer. 
+Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End atuando como estagiário na Sintech.
 <h2 align="left">
  🦄 Linguagens:
 </h2>
