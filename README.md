@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! Meu nome é Hendrickson, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
+ Olá! Meu nome é Hendrickson Weib, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
 Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End.
 <h2 align="left">
