@@ -21,6 +21,7 @@ Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
 
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
