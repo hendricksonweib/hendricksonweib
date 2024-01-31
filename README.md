@@ -33,21 +33,5 @@ I graduated in Electronics from the Federal Institute of Science and Technology 
 <a href="https://www.instagram.com/weibhr/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
-<br>
-   <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-<br>
-   <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-<br>
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=hendricksonweib&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
+
+    
