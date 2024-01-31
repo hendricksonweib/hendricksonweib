@@ -6,9 +6,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! Meu nome é Hendrickson Weib, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
+ Hello! My name is Hendrickson Weib, I'm 21 years old, and I am a <strong>Front-End Developer</strong>.
 
-Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do Maranhão, atualmente estou cursando o Design Bacharelado na Universidade Ceuma, e estou empenhado em aprimorar minhas habilidades como desenvolvedor Front-End.
+I graduated in Electronics from the Federal Institute of Science and Technology of Maranhão. Currently, I am pursuing a Bachelor's degree in Design at Ceuma University, and I am dedicated to enhancing my skills as a Front-End developer.
+
 <h2 align="left">
  🦄 Linguagens:
 </h2>
@@ -24,7 +25,7 @@ Graduado em Eletroeletrônica pelo Instituto Federal de ciência e tecnologia do
 ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
 
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  💌Feel free to get in touch: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/hendricksonweib/" title="LinkedIn" target="_blank">
