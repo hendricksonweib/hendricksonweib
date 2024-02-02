@@ -11,7 +11,7 @@
 I graduated in Electronics from the Federal Institute of Science and Technology of Maranhão. Currently, I am pursuing a Bachelor's degree in Design at Ceuma University, and I am dedicated to enhancing my skills as a Front-End developer.
 
 <h2 align="left">
- 🦄 Linguagens:
+ 🦄 skills:
 </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
