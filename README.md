@@ -3,14 +3,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A80CF7&center=true&vCenter=true&random=false&width=435&lines=Hello+World%F0%9F%91%8B!;My+name+is+Hendrickson+Weib.;I%C2%B4m+Front-End+Developer!)](https://git.io/typing-svg)
 
 </div>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <p align="left"> 
  Hello! My name is Hendrickson Weib, I'm 21 years old, and I am a <strong>Front-End Developer</strong>.
 
 I graduated in Electronics from the Federal Institute of Science and Technology of Maranhão. Currently, I am pursuing a Bachelor's degree in Design at Ceuma University, and I am dedicated to enhancing my skills as a Front-End developer.
 
-<h2 align="left">
+<div>
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 1;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=dark"/>
+    </div>
+   
+</div>
+
  🦄 skills:
 </h2>
 
@@ -33,4 +42,8 @@ I graduated in Electronics from the Federal Institute of Science and Technology 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
 
-    
+
+
+
+  
+
