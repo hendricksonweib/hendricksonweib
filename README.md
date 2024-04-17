@@ -4,7 +4,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left"> 
@@ -14,11 +13,13 @@ I graduated in Electronics from the Federal Institute of Science and Technology 
 
 <div>
 <div style="display: flex; flex-direction: row;">
-    <div style="flex: 8; display:flex;">
+    <div style="flex: 8;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=dark"/>
-        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=donut-vertical&theme=dark"/>
     </div>
-   
+    <div style="flex: 8;">
+        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=donut-vertical&theme=dark"/>
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
+    </div>
 </div>
 
  🦄 skills:
