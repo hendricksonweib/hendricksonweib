@@ -14,8 +14,9 @@ I graduated in Electronics from the Federal Institute of Science and Technology 
 
 <div>
 <div style="display: flex; flex-direction: row;">
-    <div style="flex: 1;">
+    <div style="flex: 8; display:flex;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=dark"/>
+        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=donut-vertical&theme=dark"/>
     </div>
    
 </div>
