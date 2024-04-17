@@ -17,7 +17,7 @@ I graduated in Electronics from the Federal Institute of Science and Technology 
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=dark"/>
     </div>
     <div style="flex: 8;">
-        <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=donut-vertical&theme=dark"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=compact&theme=dark"/>
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px">
     </div>
 </div>
