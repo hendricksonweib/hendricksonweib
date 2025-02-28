@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
- Hello! My name is Hendrickson Weib, I'm 21 years old, and I am a <strong>Front-End Developer</strong>.
+ Hello! My name is Hendrickson Weib, I'm 22 years old, and I am a <strong>Front-End Developer</strong>.
 
 I graduated in Electronics from the Federal Institute of Science and Technology of Maranhão. Currently, I am pursuing a Bachelor's degree in Design at Ceuma University, and I am dedicated to enhancing my skills as a Front-End developer.
 
