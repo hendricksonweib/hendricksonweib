@@ -45,8 +45,10 @@ Olá! Sou o **Hendrickson Weib**, um desenvolvedor Front-End de 22 anos apaixona
 ### 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricksonweib&show_icons=true&theme=visual_studio_code&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=compact&theme=visual_studio_code&border_radius=10" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricksonweib&layout=compact" />
+</p>
+
 </div>
 
 <p align="center">
