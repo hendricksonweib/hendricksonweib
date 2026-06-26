@@ -20,7 +20,7 @@ Olá! Sou o **Hendrickson Weib**, um desenvolvedor Front-End de 22 anos apaixona
 
 * 🎓 **Educação:** Técnico em Eletrônica (IFMA) e graduando em **Design** (Ceuma).
 * 🎨 **Foco:** Criar interfaces intuitivas, acessíveis e visualmente impactantes.
-* 🛠️ **Experiência:** Especializado em ecossistemas JavaScript e desenvolvimento robusto com Python no Back-End.
+* 🛠️ **Experiência:** Especializado em ecossistemas JavaScript.
 
 ---
 
